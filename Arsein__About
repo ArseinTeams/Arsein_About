@@ -1,17 +1,30 @@
 [
   {
-    "my_about": "https://rubika.ir/joing/GAFHHBIG0INMVKOJXICVKJMMIIEHRLWH"
+    "my_about": "https://rubika.ir/joing/GAFHHBIG0INMVKOJXICVKJMMIIEHRLWH",
+    "type": "group"
   },
   {
-    "my_about": "@Support_libdaryArseinRubika"
+    "my_about": "https://splus.ir/joingroup/AIqcpH4uS_G1qX8QwgtSSg",
+    "type": "group"
   },
   {
-    "my_about": "@DocumentArseinRubika"
+    "my_about": "https://eitaa.com/joinchat/2285175066Cf30f9b5295",
+    "type": "group"
   },
   {
-    "my_about": "@ArseinBlock"
+    "my_about": "@Support_libdaryArseinRubika",
+    "type": "channel"
   },
   {
-    "my_about": "@PrivateKeys"
+    "my_about": "@DocumentArseinRubika",
+    "type": "channel"
+  },
+  {
+    "my_about": "@ArseinBlock",
+    "type": "channel"
+  },
+  {
+    "my_about": "@PrivateKeys",
+    "type": "channel"
   }
 ]
