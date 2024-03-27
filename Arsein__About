@@ -8,6 +8,18 @@
     "type": "group"
   },
   {
+    "my_about": "https://t.me/Group_Arsein",
+    "type": "group"
+  },
+  {
+    "my_about": "https://t.me/ArseinTeam",
+    "type": "channel"
+  },
+  {
+    "my_about": "https://gap.im/ArseinTeam",
+    "type": "channel"
+  },
+  {
     "my_about": "https://eitaa.com/joinchat/2285175066Cf30f9b5295",
     "type": "group"
   },
