@@ -12,11 +12,11 @@
     "type": "group"
   },
   {
-    "my_about": "@Support_libdaryArseinRubika",
+    "my_about": "https://rubika.ir/Support_libdaryArseinRubika",
     "type": "channel"
   },
   {
-    "my_about": "@DocumentArseinRubika",
+    "my_about": "https://rubika.ir/DocumentArseinRubika",
     "type": "channel"
   },
   {
@@ -24,7 +24,11 @@
     "type": "channel"
   },
   {
-    "my_about": "@PrivateKeys",
+    "my_about": "https://rubika.ir/PrivateKeys",
+    "type": "channel"
+  },
+  {
+    "my_about": "https://eitaa.com/ArseinTeam",
     "type": "channel"
   }
 ]
